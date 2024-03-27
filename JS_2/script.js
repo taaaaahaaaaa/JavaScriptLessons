@@ -119,7 +119,7 @@ const n = prompt("Pozitif bir sayi giriniz.");
 let toplam2 = 0;
 for (let i = 1; i <= n; i++) {
   toplam2 += i;
-}
+} 
 console.log("Toplam2 : ", toplam2);
 const sayi2 = prompt("pozitif bir sayi giriniz.");
 const asalMi = (sayi2) => {

@@ -8,7 +8,7 @@ const sayı = 1;
 
 let versinNo = 5;
 // let versin No = 5  HATALI DEĞİŞKENİN BOŞLUK OLAMAZZZ
-
+ 
 // DEĞİŞKENİN İSMİ FOR , DO OLAMAZ!!!!
 
 const isim = "Furkan";
